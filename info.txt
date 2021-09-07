@@ -1,0 +1,12 @@
+{
+	"Name": "Spellcaster",
+	"ID": "SpellCaster",
+	"Author": "Samurai71",
+	"Description": "Automatically casts conjured baked goods.",
+	"ModVersion": 0.1,
+	"GameVersion": 2.04,
+	"Date": "4/09/2021",
+	"Dependencies": ["CCSE"],
+	"Disabled": 1,
+	"AllowSteamAchievs": 1
+}
