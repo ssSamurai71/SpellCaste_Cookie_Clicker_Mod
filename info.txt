@@ -3,7 +3,7 @@
 	"ID": "SpellCaster",
 	"Author": "Samurai71",
 	"Description": "Automatically casts conjured baked goods.",
-	"ModVersion": 0.5,
+	"ModVersion": 1.5,
 	"GameVersion": 2.042,
 	"Date": "4/09/2021",
 	"Dependencies": ["CCSE"],
